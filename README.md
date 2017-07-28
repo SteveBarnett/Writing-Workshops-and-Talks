@@ -8,8 +8,6 @@ Some notes on presenting ideas.
 - **Becausing:** the data and facts that explain why.
 - **Convincing:** the response to anticipated challenges.
 
-How to get started.
-
 ## Argument
 
 - Use an emotional argument, but don't get angry.
@@ -18,6 +16,8 @@ How to get started.
 - Entertain and excite, especially for uncomfortable, serious, truths.
 - Help make and find connections to things / truths people already know.
 - Understand the benefits of both sides, show pros and cons.
+- Understand why the change is difficult.
+- Find things that are universally relevant, not locally specific.
 
 ## Technique
 
@@ -29,4 +29,6 @@ How to get started.
 
 - Have integrity. Be the example.
 - Provide practical, actionable, steps.
-- Make it repeatable to help the learning stick. Provide a toolkit.
+- Make it repeatable to help the learning stick.
+- Provide a toolkit.
+- Show how to get started.
