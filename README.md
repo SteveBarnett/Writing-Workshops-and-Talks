@@ -1,4 +1,4 @@
-# Writing, Workshops and Talks
+# Writing, Workshops, and Talks
 
 Some notes on presenting ideas.
 
@@ -8,27 +8,14 @@ Some notes on presenting ideas.
 - **Becausing:** the data and facts that explain why.
 - **Convincing:** the response to anticipated challenges.
 
-## Argument
+## Theoretical
 
-- Use an emotional argument, but don't get angry.
-- Use love and charm, not guilt or blame.
-- Promote sympathy.
-- Entertain and excite, especially for uncomfortable, serious, truths.
-- Help make and find connections to things / truths people already know.
-- Understand the benefits of both sides, show pros and cons.
-- Understand why the change is difficult.
-- Find things that are universally relevant, not locally specific.
-
-## Technique
-
-- Wonder at something. Invite people to wonder with you.
-- Use the peak-end rule.
-- Jump between two viewpoints.
+1. **Use an emotional argument**, but don't get angry. Use love and charm, not guilt and blame. Promote empathy, kindness, perspective. **Entertain and excite**, especially for uncomfortable, serious, truths. The more significant the thing, the more nervous we get.
+- **Connect to the past and the familiar**. Help make and find connections to things / truths people already know.  Find things that are **universally relevant, not locally specific**.
+- **Understand the benefits of both sides**: show the pros and cons. **Understand why the change is difficult and frustrating**, even when we know the right thing to do.
 
 ## Practical
 
-- Have integrity. Be the example.
-- Provide practical, actionable, steps.
-- Make it repeatable to help the learning stick.
-- Provide a toolkit.
-- Show how to get started.
+1. **Have integrity**. Be the example.
+- **Provide a toolkit with actionable steps**: we learn by doing. Show how to get started with small wins / successes that will lead to big ones. Make it repeatable, regular, and ritual to help the learning stick and have a lasting effect.
+- **Use concrete examples** to help focus empathy and compassion. Look at good examples and analyse why they're good.
