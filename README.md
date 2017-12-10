@@ -3,63 +3,62 @@
 Some notes on presenting ideas. Make it...
 
 - **Social**
-    - Groups and pairs. Use pair share / teach back activities.
-    - Connect with audience by showing shared experiences, especially struggles and failures.
-    - Connect the audience to the audience with shared experiences.
+    - Work in groups and pairs. Use pair share / teach back activities.
+    - Connect with them by showing shared experiences, especially struggles and failures.
+    - Connect them with each other by showing shared experiences.
 - **Physical**
     - Get them moving. Use activities like show of hands, walk around the room.
     - Have breaks that involved leaving the table.
-    - Kinesthetic. Link concepts with movements to increase recall and attention.
+    - Link concepts with movements to increase recall and attention.
 - **Positive**
-    - Physical environment that's not classroom-like.
+    - Have a physical environment that's not classroom-like.
     - Promote empathy, kindness, perspective, compassion.
-    - Use love and charm, not guilt and blame. Positive emotions greatly improve learning (and negative ones hinder). Make the change sufficiently alluring.
-- **Memorable**
-    - Pull the whole thing together with a narrative.
-    - Use images, metaphors, mental pictures, concrete ideas.
+    - Use love and charm, not guilt and blame. Positive emotions greatly improve learning (and negative ones hinder).
 - **Relevant**
-    - Put the why before the what
+    - Put the why before the what.
     - Have clear, meaningful, relevant, goals.
     - Have outcomes-based actions with observable impact.
 - **Identity-based**
-    - Connect to the past and the familiar. Things and truths they already know.
-    - Address values and beliefs since they guide behaviour. Why is it important to me?
+    - Connect to the past and the familiar, things and truths they already know.
+    - Highlight the values and beliefs (that guide behaviour) that make it important.
     - Find things that are universally relevant, not locally specific.
-- **Feedback loop-y**
-    - Frame changes as experiments.
+- **Experimental**
     - Make it safe to fail and try again.
     - (Re)trial → Feedback → Reflection
+    - Frame changes as experiments.
 - **Emotional**
-    - Use an emotional argument, but don't get angry.
+    - Use an emotional argument. Entertain and excite to overcome indifference, disinterest, apathy.
     - Use human-scale stats or vivid details. Show a big, emotional, display of the problem. Bring reality into the room.
-    - Entertain and excite to overcome indifference, disinterest, apathy. Especially for uncomfortable truths.
     - Show before and after to motivate the change.
 - **Short**
-    - Keep it simple and prioritise. What's the key message / concept?
+    - Keep it simple and prioritise. What's the key message or concept?
     - Make small but meaningful milestones. Find the short-term reward linked to the long-term benefit.
-    - Do warm-ups, easier / softer, stuff before the difficult stuff.
-- **Highlight-y**
-    - Remember the peak-end and primacy-recency rules.
-    - Violate a schema to get attention.
+    - Do warm-ups, easier or softer, stuff before the difficult stuff.
+- **High energy**
+    - Have a strong opening.
+    - Have a strong peak.
+    - Have a strong closing.
 - **Varied**
-    - Mix it up. Vary activities.
-    - Plan breaks.
+    - Vary type and length of activities.
+    - Plan regular breaks.
     - Hook into multiple types of memory.
-- **Example-y**
-    - Look at good examples and analyse why they're good.
-    - Use concrete examples to help focus.
+- **Concrete**
     - Have integrity. Be the example.
-- **Questionable**
-    - Promote a growth mindset, not a fixed mindset.
+    - Use concrete examples to help focus. Look at good examples and analyse why they're good.
+    - Use images, metaphors, mental pictures, concrete ideas.
+- **Questioning**
     - Ask questions rather than give answers. Provide a curiosity gap.
     - Let people draw their own conclusions, discover the answers themselves.
+    - Promote a growth mindset, not a fixed mindset.
 - **Structured**
-    - Have something to complete / fill in.
+    - Have something to complete or fill in.
     - Frame it. Have an agenda, outline, overview.
+    - Pull the whole thing together with a narrative.
 - **Do-able**
     - Show how to get started with small wins that stack up and lead to big ones.
     - Provide a toolkit with actionable steps. Be clear on what to do next.
-    - Make it repeatable, regular, ritual. We need practise.
+    - Make it repeatable, regular, ritual.
 - **Empathetic**
     - Understand why the change is difficult and frustrating. It takes time and needs supports.
     - Understand both sides. The pros and cons.
+    - Make the change sufficiently alluring.
