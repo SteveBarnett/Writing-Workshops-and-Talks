@@ -1,3 +1,5 @@
+This nows lives at [a more permanent home on my own site](https://naga.co.za/writing-workshops-and-talks/).
+
 # Writing, Workshops, and Talks
 
 Some notes on presenting ideas. Make it...
